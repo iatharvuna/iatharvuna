@@ -1,3 +1,2 @@
 # I'm Atharv !!
-### Wannabe a function of acceleration,
-### I like to design & build products, systems, and businesses.
+### I like to design & build systems and products.
